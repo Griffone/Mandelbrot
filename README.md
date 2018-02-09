@@ -1,6 +1,6 @@
 ## A Mandelbrot set image generator in Elixir/C for Programming II.
 
-![Mandelbrot](fullHD.png)
+![Mandelbrot](mandelbrot.png)
 
 
 > by Grigory Glukhov
